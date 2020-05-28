@@ -9,8 +9,8 @@ A Node.js-based discord bot that aims to assist and track your progress!
  ![gif](https://github.com/kingdonii/ProgressBot/blob/master/img/!stoppedfor.gif)
  
  # Commands: 
- - **!stopped**: Marks today as the date at which you started
- - **!stoppedfor**: Marks the day at which you started (example : !startedfor 15 days)
+ - **!started**: Marks today as the date at which you started
+ - **!startedfor**: Marks the day at which you started (example : !startedfor 15 days)
  - **!progress**: Shows you how long you've been going so far
  - **!reset**: Resets your progress to today
  - **!wipe**: Deletes your progress entirely
