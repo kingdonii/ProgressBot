@@ -17,4 +17,23 @@ A Node.js-based discord bot that aims to assist and track your progress!
  - **!help**: Shows you all possible commands
  
  ![gif2](https://github.com/kingdonii/ProgressBot/blob/master/img/!help.gif)
+  
+ # Invite Link
+  
+ **Invite the bot to your server using this [link](https://discord.com/oauth2/authorize?client_id=715572307870875740&scope=bot)**
  
+ # Installation 
+ 
+ This bot is written to run on top of node.js. Please see https://nodejs.org/en/download/
+
+Once you have NodeJS installed, run the following commands from the bot directory(use cd -directory here- in the command central)
+```
+npm install discord.js
+npm install pretty-ms
+npm install sequelize
+npm install sqlite3
+``` 
+You can then run the bot locally using this command in the bot directory 
+``` 
+node run.js
+```
